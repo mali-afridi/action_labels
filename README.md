@@ -30,7 +30,7 @@ The Video Labeler tool is a graphical user interface (GUI) application that allo
     python Video_Labeler.py
     ```
     or to import already existing action in text file, use 
-        ```bash
+   ```bash
     python video2.py
     ```
    1. **Select a Video**
