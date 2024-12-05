@@ -28,11 +28,7 @@ The Video Labeler tool is a graphical user interface (GUI) application that allo
    Start the Video Labeler tool by running the following command:
     ```bash
     python Video_Labeler.py
-    ```
-    or to import already existing action in text file, use 
-   ```bash
-    python video2.py
-    ```
+    ``` 
 
    1. **Select a Video**
        After launching the application, use the file explorer that appears to select the video file you wish to label.
